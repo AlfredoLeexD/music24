@@ -65,14 +65,14 @@
 		</ol>
 		<div class="carousel-inner">
 			<div class="item">
-				<img data-src="public/imagenes/1.jpg" alt="First slide" src="public/imagenes/1.jpg" width="911">
+				<img data-src="public/imagenes/4.jpg" alt="First slide" src="public/imagenes/4.jpg" width="911">
 				<div class="container">
 					<div class="carousel-caption">
-						<h1>ESCUCHA LA MEJOR MUSICA DE NEWSBOYS</h1>
+						<h1>ESCUCHA LA MEJOR MUSICA DE TERCER CIELO</h1>
 						<p></p>
 
-						<p><a class="btn btn-lg btn-primary" a href="http://newsboys.com/loveriot/" target="http://newsboys.com/loveriot/" role="button">PAGINA OFICIAL NEWSBOYS</a></p>
-						<p><a class="btn btn-lg btn-primary" href="http://www.atadoacristo.com/newsboys.html">ESCUCHAR MUSICA AQUI</a></p>
+						<p><a class="btn btn-lg btn-primary" a href="http://tercercielooficial.com/" target="http://tercercielooficial.com/" role="button">PAGINA OFICIAL TERCER CIELO</a></p>
+						<p><a class="btn btn-lg btn-primary" href="http://www.musicascristianas.online/tercer-cielo">ESCUCHAR MUSICA AQUI</a></p>
 					</div>
 				</div>
 			</div>
@@ -88,13 +88,13 @@
 				</div>
 			</div>
 			<div class="item active">
-				<img data-src="public/imagenes/3.png" alt="Third slide" src="public/imagenes/3.png" width="1058">
+				<img data-src="public/imagenes/5.jpg" alt="Third slide" src="public/imagenes/5.jpg" width="1058">
 				<div class="container">
 					<div class="carousel-caption">
-						<h1>ESCUCHA LA MEJOR MUSICA DE ANDY MINEO</h1>
+						<h1>ESCUCHA LA MEJOR MUSICA DE ALEX CAMPOS</h1>
 						<p></p>
-						<p><a class="btn btn-lg btn-primary" href="http://www.andymineo.com/home/">PAGINA WEB OFICIAL</a></p>
-						<p><a class="btn btn-lg btn-primary" href="https://www.youtube.com/watch?v=LHnZRZiCYHE">ESCUCHAR MUSICA AQUI</a></p>
+						<p><a class="btn btn-lg btn-primary" href="http://alexcampos.com.co/">PAGINA WEB OFICIAL</a></p>
+						<p><a class="btn btn-lg btn-primary" href="http://www.musicascristianas.online/alex-campos">ESCUCHAR MUSICA AQUI</a></p>
 					</div>
 				</div>
 
